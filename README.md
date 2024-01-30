@@ -1,2 +1,2 @@
-VelocityCommitte.github.io
+VelocityEvent.github.io
 
